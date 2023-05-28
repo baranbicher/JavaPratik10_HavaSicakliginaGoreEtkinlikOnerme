@@ -1,0 +1,2 @@
+# JavaPratik10_HavaSicakliginaGoreEtkinlikOnerme
+Hava Sıcaklığına Göre Etkinlik Hesaplama
